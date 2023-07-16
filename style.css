@@ -1,0 +1,119 @@
+body{
+    color: #060808;
+    margin:0%;
+    padding: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    height:max-content;
+}
+.top{
+    height:130px;
+    background-color:#FAF0E4;
+}
+.delhi{
+    margin: 0%;
+    color: #f45d21;
+    position: relative;
+    font-size: 50px;
+    right:400px;
+    width:100%;
+    
+}
+.streets{
+    color: #0a0906;
+    font-size: larger;
+    font-family: 'sacramento', recursive;
+}
+.logo{
+    right: 425px;
+    position:relative;
+    width: 90px;
+    top:20px;
+    border-style:solid;
+    border-color: #FFD93D;
+    border-radius: 100px;
+}
+.header{
+    font-family:raleway;
+    position: relative;
+    bottom:50px;
+    width:550px;
+    left: 500px;
+    word-spacing:20px;
+    border-radius: 20px;
+   
+}
+.header a{
+    display: inline-block;
+  color:black;
+  text-align:center;
+  padding: 1px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 2px;
+  border-radius: 20px;
+}
+.header a:hover{
+    background-color:white;
+  color:black;
+}
+.header2{
+    font-family: raleway;
+    font-size: larger;
+    position: relative;
+    bottom :80px;
+    width:200px;
+    font-weight: 900;
+    left:80%;
+    word-spacing: 20px;
+
+}
+.header2 a{
+    display: inline-block;
+    color:black;
+    text-align:center;
+    padding: 1px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 2px;
+    border-radius: 20px;
+}
+.header2 a:hover{
+    background-color:white;
+  color:black;
+}
+h2{
+    color: #FFD93D;
+    font-size: xx-large;
+}
+.row1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    height: 200px;
+    font-family: tektur;
+    font-size:15px;
+}
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    height:200px;
+}
+.row2{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align:right;
+    height: 200px;
+    font-family: tektur;
+    font-size:15px;
+}
+.streetfood{
+    width: 50%;
+    float:left;
+    margin-right:30px;
+    height:200px;
+}
+
+
+
